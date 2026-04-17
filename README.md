@@ -10,7 +10,7 @@
 <div style="text-align: justify; max-width: 500px; margin: 0 auto;">
 
 <p>
-Olá! Meu nome é <strong>Evely Souza</strong>, tenho 21 anos e sou apaixonada por design 🎨
+Olá! Meu nome é <strong>Evely Souza</strong>, tenho 21 anos, sou apaixonada por design e atualmente estudo Ciência da Computação! 
 </p>
 
 <p>
