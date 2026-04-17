@@ -14,7 +14,7 @@ Olá! Meu nome é <strong>Evely Souza</strong>, tenho 21 anos, sou apaixonada po
 </p>
 
 <p>
-Atualmente estou em constante aprendizado na área de <strong>web design</strong>, construindo minha carreira no universo do design digital e desenvolvendo habilidades em tecnologias voltadas para criação de interfaces e experiências digitais.
+Estou em constante aprendizado na área de <strong>web design</strong>, construindo minha carreira no universo do design digital e desenvolvendo habilidades em tecnologias voltadas para criação de interfaces e experiências digitais.
 </p>
 
 <p>
