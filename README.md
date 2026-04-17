@@ -60,7 +60,7 @@ Meu foco é evoluir como desenvolvedora e designer, unindo criatividade com tecn
 
 <p align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evelysouzaa&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelysouzaa&layout=compact&theme=tokyonight"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=evelysouzaa&show_icons=true&theme=tokyonight"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelysouzaa&layout=compact&theme=tokyonight"/>
 
 </p>
